@@ -1,9 +1,7 @@
-name: RealSkywars
+name: RealMurderMystery
 version: '${project.version}'
-main: joserodpt.realskywars.plugin.RealSkywarsPlugin
+main: joserodpt.realmurdermystery.plugin.RealMurderMysteryPlugin
 api-version: '1.14'
-depend: [WorldEdit]
-softdepend: [My_Worlds, Multiverse-Core, HolographicDisplays, PlaceholderAPI, DecentHolograms, RealRegions, RealPermissions]
 authors: [JoseGamer_PT]
-description: Responsive and Efficient GUI Based Skywars Minigame Plugin
+description: Murder Mystery minigame plugin
 load: POSTWORLD
